@@ -36,6 +36,14 @@
             echo $output;
             //echo $json['data'][3]['name'];
           ?>
+          <?php   
+          //$data = file_get_contents("data.json");  
+          //$data = json_decode($data, true);  
+          //foreach($data as $row)  
+          //{  
+            //echo '<tr><td>'.$row["name"].'</td></tr>';  
+          //}  
+          ?>
         </div>
       </div>
       <div class="col-md-3"></div>
